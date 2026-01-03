@@ -66,7 +66,7 @@ router.get('/', async (req, res) => {
                             `▸ *Never share* your session ID\n` +
                             `▸ Join our WhatsApp Channel\n` +
                             `▸ Report bugs on GitHub\n\n` +
-                            `_Powered by ARSLAN-MD\n\n` +
+                            `_Powered by Senat-Botz\n\n` +
                             `🔗 *Useful Links:*\n` +
                             `▸ GitHub: https://github.com/blackthug228/Senat-Botz-generator\n` +
                             `▸ https://whatsapp.com/channel/0029VarfjW04tRrmwfb8x306`,
